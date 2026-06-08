@@ -4,7 +4,13 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "pxt-nezha": "github:elecfreaks/pxt-nezha#v1.3.10",
+        "pxt-sonar": "github:microsoft/pxt-sonar#v0.0.6",
+        "servo": "*",
+        "pxt-PlanetX": "github:elecfreaks/pxt-planetx#v1.6.3",
+        "microbit-robot": "github:microsoft/microbit-robot#v2.7.4",
+        "neopixel": "github:microsoft/pxt-neopixel#v0.7.6"
     },
     "files": [
         "main.blocks",
